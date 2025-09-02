@@ -57,8 +57,7 @@ Captioning Example	Segmentation Example
 
 	
 
-Screenshots are placeholders. Replace with your own images when testing.
-
+| ![Image Captioning]() |
 📌 Future Improvements
 
 Add a web-based interface using Streamlit for real-time uploads.
