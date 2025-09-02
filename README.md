@@ -57,7 +57,7 @@ Captioning Example	Segmentation Example
 
 	
 
-| ![Image Captioning]() |
+| ![Image Captioning](Image_1.png) |
 📌 Future Improvements
 
 Add a web-based interface using Streamlit for real-time uploads.
